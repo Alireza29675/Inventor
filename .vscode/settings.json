@@ -16,7 +16,8 @@
         "**/react-app-env.d.ts": true,
         "**/serviceWorker.ts": true,
         "README.md": true,
-        "**/package.json": true
+        "**/package.json": true,
+        "**/.prettierrc": true
     },
     "explorerExclude.backup": null
 }
