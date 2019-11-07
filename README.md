@@ -1,11 +1,1 @@
-## Installation
-
-```
-yarn install
-```
-
-## Starting app
-
-```
-yarn start
-```
+# Inventor IDE
